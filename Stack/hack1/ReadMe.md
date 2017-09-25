@@ -1,4 +1,4 @@
-<p>You have an empty sequence, and you will be given queries. Each query is one of these three types:
+<p><b>You have an empty sequence, and you will be given queries. Each query is one of these three types:</b>
 
 1    -Push the element x into the stack.
 2    -Delete the element present at the top of the stack.

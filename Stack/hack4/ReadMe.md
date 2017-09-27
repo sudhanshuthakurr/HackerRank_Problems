@@ -1,4 +1,4 @@
-Alexa has two stacks of non-negative integers, stack A=[a0,a1,....] and B=[b0,b1,....]stack where index denotes the top of the stack. Alexa challenges Nick to play the following game:
+<b>Alexa has two stacks of non-negative integers, stack A=[a0,a1,....] and B=[b0,b1,....]stack where index denotes the top of the stack. Alexa challenges Nick to play the following game:
 
    * In each move, Nick can remove one integer from the top of either stack A or stack B.
    * Nick keeps a running sum of the integers he removes from the two stacks.
@@ -6,8 +6,8 @@ Alexa has two stacks of non-negative integers, stack A=[a0,a1,....] and B=[b0,b1
    * Nick's final score is the total number of integers he has removed from the two stacks.
 
 Given A,B, and x for g games, find the maximum possible score Nick can achieve (i.e., the maximum number of integers he can remove without being disqualified) during each game and print it on a new line.
-
-Input Format
+</b>
+<b>Input Format</b>
 
 The first line contains an integer, (the number of games). The subsequent lines describe each game in the following format:
 

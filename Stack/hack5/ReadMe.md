@@ -23,18 +23,18 @@ Each operation of type must print the character on a new line.
 
 <b>Sample Input</b>
 
-8
-1 abc
-3 3
-2 3
-1 xy
-3 2
-4 
-4 
-3 1
+8<br>
+1 abc<br>
+3 3<br>
+2 3<br>
+1 xy<br>
+3 2<br>
+4 <br>
+4 <br>
+3 1<br>
 
 <b>Sample Output</b>
 
-c
-y
-a
+c<br>
+y<br>
+a<br>
